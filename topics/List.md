@@ -7,7 +7,7 @@ As listas são um ADT que:
 - Permite remover um elemento em uma posição
 - Permite atualizar um elemento em uma determinada posição
 
-Uma implementação concreata deste ADT é uma Array, onde:
+Uma implementação concreta deste ADT é uma Array, onde:
 - Os elementos da array podem ser de qualquer tipo de dado
 - Temos todas as opções a cima de operações
 
