@@ -32,3 +32,4 @@ List
 ```
 
  ## Pensando nas operações
+
