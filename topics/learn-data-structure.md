@@ -89,7 +89,7 @@ Isso é uma abstração de uma casa correto? Isso é de suma o essencial que uma
 
 Agora pense que você é um empresário e vai abrir um novo negócio que é uma casa noturna (podemos chamar de bordel caso queira) em, _Xique-Xique Bahia 📍_, e o que ele vai construir é uma casa, certo? 
 
-![Cafetão Maciota](Cafetão Maciota)
+![cafetaomaciota.png](cafetaomaciota.png)
 
 Sim, então ele vai seguir um ADT um modelo abstrado de tipo de dado que define a abstração, que no nosso caso esse ADT seria uma casa. 
 
