@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="lds"
-                 name="Learn Data Structure"
+                 name="Learn Data Structures"
                  start-page="learn-data-structure.md">
 
     <toc-element topic="learn-data-structure.md"/>

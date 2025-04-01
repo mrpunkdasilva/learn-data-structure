@@ -1,4 +1,4 @@
-# Learn Data Structure
+# Learn Data Structures
 
 ## Introdução: Minecraft e Estruturas de Dados
 
