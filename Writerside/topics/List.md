@@ -1,4 +1,4 @@
-# List (Lista)
+# List
 
 Uma lista é um Tipo Abstrato de Dados (ADT) que:
 - Permite armazenar elementos de qualquer tipo de dado
@@ -35,9 +35,11 @@ List
 
 Estas operações podem ser visualizadas na seguinte imagem:
 
-![Exemplificação de operações de uma lista](Exemplificação de operações de uma lista)
+![Exemplificação de operações de uma lista](../images/Exemplificação%20de%20operações%20de%20uma%20lista.png)
 
+<note>
 Nota: Quando um array está cheio, uma implementação típica cria um novo array maior, copia os elementos do array antigo para o novo, e libera a memória do array antigo.
+</note>
 
 Complexidade das operações principais:
 

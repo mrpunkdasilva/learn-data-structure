@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/flash-pomo-documentation.iml" filepath="$PROJECT_DIR$/.idea/flash-pomo-documentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-data-structures.iml" filepath="$PROJECT_DIR$/.idea/learn-data-structures.iml" />
     </modules>
   </component>
 </project>
