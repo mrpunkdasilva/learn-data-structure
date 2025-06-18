@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="lds"
+                 name="Learn Data Structures"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="learn-data-structure.md"/>
+    <toc-element topic="List.md"/>
+    <toc-element topic="LinkedList.md"/>
+</instance-profile>
